@@ -1,8 +1,0 @@
-C:\Users\Roberto\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
-C:\Users\Roberto\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
-C:\Users\Roberto\Desktop\HTTPServer\HTTPServer\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Roberto\Desktop\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.exe
-C:\Users\Roberto\Desktop\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.pdb
-C:\Users\Roberto\Desktop\HTTPServer\HTTPServer\bin\Debug\home.html
-C:\Users\Roberto\Dropbox\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.exe
-C:\Users\Roberto\Dropbox\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.pdb
