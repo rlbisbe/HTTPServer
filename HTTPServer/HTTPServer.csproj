@@ -63,7 +63,7 @@
     <Compile Include="WebServer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="home.html">
+    <Content Include="web\home.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

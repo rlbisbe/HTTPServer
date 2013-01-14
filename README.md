@@ -5,4 +5,4 @@ A small web server written in C#.
 Usage
 -----
 
-The server will listen, by default, on the port 5000, and will serve a unique file.
+The WebServer class is configured with two parameters, the port of the server and the path that will contains the files. The server does not support currently binary files (I'm working on that)
